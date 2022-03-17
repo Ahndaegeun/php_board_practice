@@ -31,7 +31,7 @@ for($i = 0; $i < 10; $i++) {
 
 }
 
-$arr = array('a' => 1, 'b' => 2);
+$arr = array(1, 2);
 foreach($arr as $i) {
   echo $i;
 }
